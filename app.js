@@ -313,7 +313,7 @@ class ByronByDoorbell extends Homey.App {
 			var melodyId = args['melodyId']
 			this.log('RING-ID-GENERIC: buttonId:' + buttonId + ', melodyId:' + melodyId);
 			var bits = getBits(buttonId, melodyId);
-			this.log("bits:", bits);
+			this.log("bits:", JSON.stringify(bits));
 			byronBySignal.tx(bits, this.logit);
 			return true;
 		});
@@ -354,7 +354,7 @@ class ByronByDoorbell extends Homey.App {
 			var melodyId = args['melodyId']
 			this.log('RING-ID-PAIRED: buttonId:' + buttonId + ', melodyId:' + melodyId);
 			var bits = getBits(buttonId, melodyId);
-			this.log("bits:", bits);
+			this.log("bits:", JSON.stringify(bits));
 			byronBySignal.tx(bits, this.logit);
 			return true;
 		});
