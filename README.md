@@ -6,6 +6,7 @@ These devices are supported:
 
 Doorbell push buttons:
 * BY30 tested
+* BY32
 * BY33
 * BY34
 * BY35

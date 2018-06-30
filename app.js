@@ -6,6 +6,7 @@
 // PUSH BUTTONs
 // ============
 // BY30 8 codes, tested
+// BY32 8 codes?
 // BY33 8 codes
 // BY34 8 codes?
 // BY35 8 codes?
@@ -25,6 +26,7 @@
 // BY206E   8 melodies unspecified
 // BY206FE  8 melodies unspecified
 // BY212    6 melodies C
+// BY213    6 melodies C
 // BY216    8 melodies unspecified ???
 // BY216E   8 melodies unspecified
 // BY216FE  8 melodies unspecified
@@ -32,6 +34,9 @@
 // BY236FE  8 melodies unspecified
 // BY301    8 melodies A
 // BY302    8 melodies A
+// BY313    8 melodies A
+// BY329    8 melodies A
+// BY349    8 melodies A
 // BY401B   4 melodies unspecified
 // BY401W   4 melodies unspecified tested
 // BY403    4 melodies B
