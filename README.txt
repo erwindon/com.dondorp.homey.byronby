@@ -1,4 +1,3 @@
-
 ### Byron BY series doorbells
 Homey app to receive signals from Byron BY doorbell pushbuttons; and to send signal to Byron BY doorbell chimes.
 
