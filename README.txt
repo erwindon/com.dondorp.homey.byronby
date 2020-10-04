@@ -10,7 +10,6 @@ Doorbell push buttons:
 * BY34
 * BY35
 * BY37
-* BY37Z
 
 Doorbell chimes:
 * BY101
@@ -18,33 +17,26 @@ Doorbell chimes:
 * BY103
 * BY112
 * BY201
-* BY201F
 * BY202
-* BY202F
-* BY206E
-* BY206FE
+* BY206
 * BY212
 * BY216
-* BY216E
-* BY216FE
-* BY236E
-* BY236FE
+* BY216
+* BY236
 * BY301
 * BY302
-* BY401B
-* BY401W tested
+* BY401 tested
 * BY403
-* BY501E
-* BY502E
-* BY502ZE
-* BY503ZE
-* BY504E
-* BY511E
-* BY514E
-* BY532E
-* BY535E
-* BY601E
-* BY611E
+* BY501
+* BY502
+* BY503
+* BY504
+* BY511
+* BY514
+* BY532
+* BY535
+* BY601
+* BY611
 
 
 Depending on the model, the list of possible sounds is adjusted.
